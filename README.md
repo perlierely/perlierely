@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=perlierely)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-neon-three.vercel.app?user=perlierely)](https://git.io/streak-stats)
